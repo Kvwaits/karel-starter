@@ -25,10 +25,48 @@ public class MyKarel extends Karel {
     public void run() {
 
         move();
-
+        move();
+        move();
+        move();
+        turnLeft();
+        move();
+        move();
+        move();
+        move();
+        turnLeft();
+        move();
+        move();
+        move();
+        move();
+        turnLeft();
+        move();
+        turnLeft();
+        move();
+        move();
+        move();
+        turnLeft();
+        turnLeft();
+        turnLeft();
+        move();
+        turnLeft();
+        turnLeft();
+        turnLeft();
+        move();
+        move();
+        move();
+        turnLeft();
+        move();
+        turnLeft();
+        move();
+        move();
+        pickBeeper();
         doubleTheBeepers();
 
 
+
+    }
+
+    private void turnright() {
     }
 
     private void doubleTheBeepers() {
