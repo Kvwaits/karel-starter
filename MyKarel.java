@@ -66,8 +66,6 @@ public class MyKarel extends Karel {
 
     }
 
-    private void turnright() {
-    }
 
     private void doubleTheBeepers() {
     }
